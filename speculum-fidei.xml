@@ -536,7 +536,7 @@ nec
 <pb n="10v"/>
 <lb/>monitus a deo secedere in <name>bethel</name>⸵ dixit filiis et familie
 <lb/>sue. <quote synch="Gen35.2">Abicite deos alienos qui in medio uestri sunt⸵ et mun<lb break="no"/>damini.</quote> Qui <quote synch="Gen35.4">dederunt ei deos alienos. et fodit eos 
-<lb/>subter terebintum⸵<!-- superscript Ⱶ above t-, function unclear --> post urbem <name>sichem</name></quote>. Animaduerte.
+<lb/>subter t<add place="above">h</add>erebintum⸵<!-- superscript Ⱶ above t--> post urbem <name>sichem</name></quote>. Animaduerte.
 <lb/>quam proni fuerunt semper <name>iudei</name> ut prediximus ad colen<lb break="no"/>dum idola. Nec mirandum quod successio huic super<lb break="no"/>stioni addicta est⸵ cum domus tanti patriarche˷ immu<lb break="no"/>nis ab hoc scelere non fuerit. Hic annectendum puto.
 <lb/>quem primum in scriptura sancta legamus fabricasse idolum.
 <lb/>Huius rei indicium. in <title>exodo</title> reperimus. Etenim sic ibi scrip<lb break="no" rend="indent"/>tum est. <quote>Videns autem populus quod moram faceret descen<lb break="no" rend="indent"/>dendi de monte <name>moyses</name>⸵ congregatus aduersus <name>aa<lb break="no"/>ron</name> ait. <said>Surgens fac nobis deos. qui nos precedant. Moysi autem huic uiro qui nos eduxit de terra <name>egypti</name>⸵ ignoramus quid acciderit.</said> Aaron autem necessitate 
@@ -852,7 +852,7 @@ in eum facto.
 <lb/>libertatem reduxerat⸵ iterum ad idola colenda con<lb break="no"/>uersi sunt. Nam in tempore <name>machabeorum</name> quod proximum
 <lb/>erat aduentui saluatoris nostri in carnem⸵ sic eos 
 <lb/>erasse legimus. <quote>Exierunt</quote> inquit scriptura <quote>quidam
-<lb/>impii de <name>israel</name> dicentes. <said>Eamus. et disponamus
+<lb/>impii de <name>israhel</name> dicentes. <said>Eamus. et disponamus
 <lb/>testamentum cum gentibus que circa nos sunt⸵ quia postquam
 <lb/>recessimus ab eis. inuenerunt nos mala multa
 <lb/>nimis.</said></quote> Et paucis interpositis. <quote>Fecerunt</quote> inquit <quote>gig<lb break="no"/>nasium in <name>ierusalem</name>.</quote> 
@@ -1206,7 +1206,7 @@ in eum facto.
 </item>
 <item>
 <lb/><label>xxiiii</label> De pluribus assertionibus sancte trinitatis in euangelio 
-<lb/>beati <name>iohannis</name>. item in fine euangelii beati <name>mathei</name>.
+<lb/>beati <name>iohannis</name>. Item in fine euangelii beati <name>mathei</name>.
 </item>
 <item>
 <lb/><label>xxv</label> De sancta trinitate in epistola <name>iacobi</name> apostoli.
@@ -1220,7 +1220,7 @@ in eum facto.
 <lb/>et de tribus linguis principalibus<subst><del rend="altered">.</del><add place="inline">⸵</add></subst> que uniuersas linguas significant.
 </item>
 <item>
-<lb/><label>x<supplied reason="omitted">x</supplied>viii</label> Item in <title>actibus apostolorum</title> manifestata est sancta trinitas respon<lb break="no"/>dente domino discipulis interrogantibus de restitutione re<lb break="no"/>ni <name>israhel</name>⸵ similiter in passione beati <name>stephani</name>. quando
+<lb/><label>x<supplied reason="omitted">x</supplied>viii</label> Item in <title>actibus apostolorum</title> manifestata est sancta trinitas respon<lb break="no"/>dente domino discipulis interrogantibus de restitutione reg<lb break="no"/>ni <name>israhel</name>⸵ similiter in passione beati <name>stephani</name>. quando
 <lb/>uidit filium hominis stantem a dextris uirtutis dei.
 </item>
 </list>
@@ -2107,55 +2107,291 @@ Incipit prologus.
 <lb/>narrant. et de baptismate non repetendo.
 </head>
 <p>
-<lb/>
+<lb/>Rursum in baptismate domini nostri <name>iesu <name>cristi</name></name>˷
+<lb/>quod nostre renouationis in ipso exemplum est⸵
+<lb/>concorditer idem euangeliste tres personas sancte
+<lb/>trinitatis. humano generi euidentissime prodi<lb break="no"/>derunt. <name>Matheus</name> quidem dicit. <quote>Baptizatus autem.</quote>
+<lb/>quis nisi <name>iesus</name>? <quote>Confestim ascendit de aqua. et ecce aper<lb break="no"/>ti sunt ei celi⸵ et uidit spiritum dei descendentem de celo
+<lb/>sicut columbam. et uenientem super se. Et ecce 
+<lb/>uox de celis dicens. <said>Hic est filius meus dilectus⸵
+<lb/>in quo michi complacui.</said></quote> <name>Marcus</name> uero sic ait. <quote>Venit <name>iesus</name>
+<lb/>a <name>nazareth</name> <name>galilee</name>. et baptizatus est in <name>iordane</name> a
+<lb/><name>iohanne</name>⸵ et statim ascendens de aqua uidit celos apertos.
+<lb/>et spiritum tanquam columbam descendentem et manen<lb break="no"/>tem in ipso⸵ et uox facta est de celis. <said>Tu es filius
+<lb/>meus dilectus⸵ in te complacui.</said></quote> <name>Lucas</name> quoque ait. 
+<lb/><quote synch="Luke3.21-22">Factum est autem cum baptizaretur omnis populus˷ 
+<lb/>et <name>iesu</name> baptizato et orante⸵ apertum est celum. et des<lb break="no"/>cendit spiritus sanctus corporali specie sicut columba 
+<lb/>in ipsum⸵ et vox de caelo facta est. <said>Tu es filius meus 
+<lb/>dilectus⸵ in te complacuit michi.</said></quote> Euangelista etiam <name>iohannes</name>
+<lb/>sic ait. <quote synch="John1.32-34">Testimonium perhibuit <name>iohannes</name></quote> uidelicet bap<lb break="no"/>tista˷ <quote>dicens. <said>Vidi spiritum descendentem quasi 
+<pb n="48v"/>
+<lb/>columbam de celo˷ et mansit super eum⸵ et ego nesci<lb break="no"/>ebam eum. Sed qui misit me baptizare. ille michi dixit. 
+<lb/><said>Super quem uideris spiritum descendentem et manentem 
+<lb/>super eum⸵ hic est qui baptizat in spiritu sancto.</said> Et ego uidi 
+<lb/>et testimonium perhibui. quia hic est filius dei.</said></quote> Nota quo<lb break="no"/>niam ille qui intelligitur per uocem quam auditam 
+<lb/>referunt tres euangeliste idest pater. a <name>iohanne</name> bapti<lb break="no"/>sta significatur in eo quod dicit. <quote>Qui misit me bapti<lb break="no"/>zare⸵ ille michi dixit.</quote> et cetera. Querendum est quare <name>iohannes</name> di<lb break="no"/>xerit. <quote>ego nesciebam eum.</quote> Nunquid ignorabat eum˷
+<lb/>cui uenienti ad baptismum suum˷ testimonium 
+<lb/>perhibuit dicens. <quote>ecce agnus dei˷ ecce qui tollit pecca<lb break="no"/>ta mundi</quote>? Et iterum. <quote>Ecce de quo dicebam uobis. Qui
+<lb/>post me uenit ante me factus est⸵</quote> idest ipse me 
+<lb/>precedit diuina maiestate. qui me secutus est hu<lb break="no"/>mana natiuitate. Cognouit ergo eum <name>iohannes</name> ex par<lb break="no"/>te⸵ sed non cognouit eum ex parte. Cognouit quidem
+<lb/>eum esse filium dei. et quia uenerat tollere peccata
+<lb/>mundi⸵ sed non cognouit quod nulli largiturus erat
+<lb/>gratiam baptismatis˷ idest remittere peccata in
+<lb/>baptismate. sed sibi soli retenturus⸵ antequam ille 
+<lb/>qui misit eum baptizare dixisset. <quote>Super quem uide<lb break="no"/>ris spiritum descendentem et manentem super eum⸵</quote> hic est
+<pb n="49r"/>
+<lb/>qui baptizat in spiritu sancto. Baptizat quidem <name>petrus</name>.
+<lb/>baptizat <name>paulus</name>⸵ baptizant sacerdotes in eccle<lb break="no"/>sia dei. Ille tamen solus baptizat. quia spiritum sanctum solus
+<lb/>tribuit⸵ quia solus peccata dimittit. Igitur sicut 
+<lb/>una columba apparuit per quam spiritus sanctus 
+<lb/>intelligitur qui in baptismate datur⸵ sic unus
+<lb/>est baptismus et non plures. Ideoque non potest
+<lb/>repeti baptismus. siue per bonum siue per malum mini<lb break="no"/>stum<del rend="erased">˷</del> baptismatis ministerium fiat. Nam ei ho<lb break="no"/>minum esset baptimus˷ repeti potuisset⸵ quemad<lb break="no"/>modum baptismus <name>iohannis</name>. sicut legimus in <title>actibus
+<lb/>apostolorum.</title> <quote synch="Act19.1-5">Cum ueniret <name>paulus</name> <name>ephesum</name>. et
+<lb/>inueniret quosdam discipulos⸵ dixit ad eos. <said>Si
+<lb/>spiritum sanctum accepistis credentes?</said> At illi dixerunt
+<lb/>ad eum. <said>Sed neque si spiritus sanctus est audiuimus.</said> Ille uero ait.
+<lb/><said>In quo ergo baptizati estis?</said> Qui dixerunt. <said>In <name>iohannis</name>
+<lb/>baptismate.</said> Dixit autem <name>paulus</name>. <said><name>Iohannes</name> baptiza<lb break="no"/>uit baptismo penitentie populum dicens. <said>in 
+<lb/>eum qui uenturus esset post ipsum ut crederent</said>⸵ 
+<lb/>hoc est in <name>iesum</name>.</said> His auditis. baptizati sunt in no<lb break="no"/>mine domini <name>iesu</name>.</quote> Ecce quomodo hominis baptismus
+<lb/>repetitur. <name>cristi</name> autem ut prediximus˷ nullo modo repeti
+<lb/>potest. Inde est quod apostolus ait. <quote>Vnus dominus una fides. unum
+<lb/>baptisma.</quote>
 </p>
 </div>
 <pb n="49v"/>
 <div type="textpart" subtype="capitulum" n="24">
 <head>
-<label>.xxiiii.</label> De pluribus assertionibus sancte trinitatis in euangelio beati <name>iohannis</name>. item in fine euangelii beati <name>mathei</name>.
+<lb/><label>.xxiiii.</label> De pluribus assertionibus sancte trinitatis in 
+<lb/>euangelio beati <name>iohannis</name>. Item in fine euangelii beati <name>mathei</name>.
 </head>
 <p>
-<lb/>
+<lb/>Prosequitur in euangelio su<add place="inRas">o</add> <name>iohannes</name> iterum
+<lb/>aperire misterium trinitatis. recolens uer<lb break="no"/>ba domini dicentis ad mulierem <name>samarita<lb break="no"/>nam</name>. <quote>Venit hora et nunc est⸵ quando ueri adoratores
+<lb/>adorabunt patrem in spiritu et ueritate.</quote> Veros ado<lb break="no"/>ratores uocat eos qui longe sunt animo et actu
+<lb/>a cultura idolorum. qui cum psalmista dicere pos<lb break="no"/>sunt⸵ <quote>michi autem adherere deo bonum est.</quote> Isti <quote>adorant
+<lb/>patrem in spiritu</quote>. idest illustrante gratia spiritus sancti et ueri<lb break="no"/>tate⸵ idest in <name>cristo</name> qui ueritas est. Quomodo? Confi<lb break="no"/>tentes patrem et filium et spiritum sanctum esse in unita<lb break="no"/>te deitatis. et in personarum trinitate. Item in 
+<lb/>eodem euangelio˷ idem dominus ad discipulos. <quote>Ego</quote> inquit 
+<lb/><quote>rogabo patrem. et alium paraclitum dabit uobis˷ ut 
+<lb/>maneat uobiscum in eternum⸵ spiritum ueritatis quem
+<lb/>hic mundus non potest accipere. quia non uidit eum⸵
+<lb/>nec scit eum.</quote> Quid apertius? Loquitur filius de pa<lb break="no"/>tre⸵ et de spiritu sancto. Quod dicit hic <quote>mundus non
+<lb/>uidit eum nec scit eum</quote>⸵ de his dicit˷ qui uel in infide<lb break="no"/>litate permanent. uel fidem specietenus suscipi<lb break="no"/>entes˷ mundo se omnino dederunt. Alibi enim
+<pb n="50r"/>
+<lb/>dicit. <quote>Sic deus dilexit mundum. ut filium suum unige<lb break="no"/>nitum daret</quote>⸵ pro mundo scilicet. Pro quo? Sub<lb break="no"/>iungit. <quote>Vt omnes qui credunt in eum non pereant⸵
+<lb/>sed habeant uitam eternam.</quote> His scilicet qui credentes opera
+<lb/>fidei sectantur. sine quibus fides mortua est. Iste
+<lb/>namque mundus⸵ non ignorat spiritum sanctum. Vnus
+<lb/>itaque istorum mundus. odit alium. Vnde beatus pater
+<lb/>noster <name>augustinus</name>. <quote>Mundus odit mundum⸵ perditus
+<lb/>reconciliatum.</quote> Item aliud de trinitate testimoni<lb break="no"/>um. <quote>Cum uenerit</quote> ait <quote>paraclitus quem ego mittam
+<lb/>uobis a patre spiritum ueritatis qui a patre procedit⸵
+<lb/>ille testimonium prohibebit de me.</quote> Cui consonat <name>lu<lb break="no"/>cas</name> in euangelio suo˷ dicente domino. <quote>Ecce ego mitto pro<lb break="no"/>missum patris mei in uos.</quote> <name>Matheus</name> quoque in fine
+<lb/>euangelii sui dicens dominum apparuisse undecim
+<lb/>discipulis suis in <name>galilea</name>⸵ tres personas et spiritus sancti
+<lb/>omnipotentiam˷ patri filioque coequalem euiden<lb break="no"/>ter ostendit. dicente ad eos domino. <quote synch="Matt28.18-19"><said>Data est michi omnis
+<lb/>potestas. in celo et in terra.</said> Euntes ergo docere omnes
+<lb/>gentes. baptizantes eos in nomine patris et filii 
+<lb/>et spiritus sancti⸵ docentes eos seruare omnia quecunque
+<lb/>mandaui uobis.</quote> Ecce quanta equalitas. quia in nomine
+<lb/>spiritus sancti˷ sicut in nomine patris et filii baptizandi sunt⸵
+<pb n="50v"/>
+<lb/>qui catholicam fidem suscipiunt.
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="25">
 <head>
-<label>.xxv.</label> De sancta trinitate in epistola <name>iacobi</name> apostoli.
+<label>.xxv.</label> De sancta 
+<lb/>trinitate in epistola <name>iacobi</name> apostoli.
 </head>
 <p>
-<lb/>
+<lb/>Iacobus apostolus frater domini in epistola sua omnipotentiam
+<lb/>sancte trinitatis ostendit. sic inquiens. <quote>Omne datum
+<lb/>optimum et omne donum perfectum desursum est</quote>⸵ descen<lb break="no"/>dens a patre luminum. Inter donum et datum⸵ hoc 
+<lb/>inter est. Datum est⸵ quod ex proximo tribuitur. Donum
+<lb/>uero⸵ quod ad dandum conseruatur. Est ergo datum optimum
+<lb/>filius⸵ de quo <name>ysaias</name>. <quote>Filius datus est nobis.</quote> Donum
+<lb/>perfectum˷ spiritus sanctus⸵ qui quasi ad dandum post resur<lb break="no"/>rectionem discipulis conseruabatur. Vnde scriptum est.
+<lb/><quote>Nondum erat spiritus datus⸵ quia nondum erat <name>iesus</name> glori<lb break="no"/>ficatus.</quote> Et idem dominus ad discipulos. <quote>Ego</quote> inquit <quote>uerita<lb break="no"/>tem dico uobis. expedit uobis ut ego uadam</quote>⸵ ides
+<lb/>per mortem temporalem˷ transeam ad immortalitatem.
+<lb/><quote>Si enim non abiero. paraclitus non ueniet ad uos.</quote>
+<lb/>Vterque descendit a patre luminum. quia filius
+<lb/>a patre ad humilitatem humanitatis missus
+<lb/>est⸵ et eodem patre mittente˷ spiritus sanctus super dis<lb break="no"/>cipulos effusus est. Recte quidem pater luminum
+<lb/>dicitur. quia ille ab eo eternaliter genitus est⸵ qui
+<lb/>illuminat omnem hominem uenientem
+<lb/>in hunc mundum. Et spiritus sanctus quidem ab eo eternaliter
+<pb n="51r"/>
+<lb/>procedit. cuius gratia illustrante corda credentium⸵ nox
+<lb/>infidelitatis recedit. Et ne in ambiguitatem du<lb break="no"/>caris. quia dicit omne et omne⸵ noueris quia sicut
+<lb/>deus omnis bonitas dicitur. sic et omne datum opti<lb break="no"/>mum et omne domum perfectum. Cum enim ipse sit
+<lb/>solus bonus˷ solus optimus˷ solus perfectus⸵ nichil est
+<lb/>bonum nisi ab eo. nichil optimum nisi per eum⸵ ni<lb break="no"/>chil perfectum nisi in eo. 
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="26">
 <head>
-<label>.xxvi.</label> De sancta trinitate in epistola beati <name>petri</name>. et in epistola beati <name>iohannis</name>⸵ et in <title>apocalipsi</title> ipsius.
+<label>.xxvi.</label> De sancta trinitate in 
+<lb/>epistola beati <name>petri</name>˷ et in epistola beati <name>iohannis</name>. et in <title>apoca<lb break="no"/>lipsi</title> ipsius.
 </head>
 <p>
-<lb/>
+<lb/>Beatus quidem <name>petrus</name> apostolus in epistola sua 
+<lb/>trinitatem insinuans ait. <quote synch="1Pet4.14">Si exprobra<del rend="erased">mi</del><lb break="no"/>mini in nomine <name>christi</name>⸵ beati estis. quoniam
+<lb/>quod est honoris et glorie et uirtutis dei˷ et qui est
+<lb/>eius spiritus⸵ super uos requiescet.</quote> Idest si fides <name>cristi</name>
+<lb/>in qua fundati operibus bonis participatione no<lb break="no"/>minis illius merito <name>cristiani</name> dicimini˷ uobis
+<lb/>in exprobrationem proponitur⸵ <quote synch="1Pet4.14">beati estis. Quoniam quod 
+<lb/>est honoris et glorie</quote>. et cetera. Hic est <subst><del rend="erased">l</del><add place="inRas">b</add></subst>rdo legendi.
+<lb/>Quoniam <quote>requiescet super uos</quote> id <quote>quod est honoris est glorie⸵ et 
+<lb/>uirtutis dei.</quote> Quasi diceret. <said>Honor et gloria et uir<lb break="no"/>tus que a deo est˷ patre scilicet. et qui est eius spiritus⸵
+<lb/>idest spiritus sanctus qui ab ipso procedit. requiescet super uos⸵
+<pb n="51v"/>
+<lb/>qui in humilitate gradientes˷ <name>cristi</name> uestigia sequimi<lb break="no"/>ni qui dixit. <quote>Discite a me quia mitis sum⸵ et humilis
+<lb/>corde.</quote></said> <name>Iohannes</name> quoque in epistula sua˷ sancte trinitatis fidem
+<lb/>commendat dicens. <quote>Hoc est mandatum eius</quote> patris
+<lb/>scilicet. ut credamus in nomine filii eius <name>iesu <name>cristi</name></name>.
+<lb/>Et paulo post. <quote>Scimus quoniam manet in nobis de spiritu
+<lb/>quem dedit nobis.</quote> Item. <quote>Tres sunt qui testimoni<lb break="no"/>um dant in celo⸵ pater˷ uerbum˷ spiritus santus.</quote>
+<lb/>De unitate quoque subdit dicens. <quote>Et hi tres unum 
+<lb/>sunt.</quote> Et in <title>apocalipsi</title>. <quote>Gratia uobis et pax ab eo qui est
+<lb/>et qui erat. et qui uenturus est. Et a septem spiriti<lb break="no"/>bus˷ qui in conspectu throni eius sunt. Et ab <name>iesu
+<lb/><name>cristo</name></name> qui est testis fidelis. primogenitus mortuorum˷
+<lb/>princeps regum terre.</quote> <mentioned>Thronus</mentioned> grece⸵ <mentioned>sedes</mentioned> dicitur
+<lb/>latine. Vnus quippe de nouem ordinibus angelorum.
+<lb/><mentioned>t<add place="above">h</add>ronus<!-- superscript ⱶ again --></mentioned> uocatur. <quote>Ob hoc</quote> ut ait beatus <name>gregorius</name>˷
+<lb/>quod in eis dominus sedeat⸵ et per eos sua iudicia discernat.
+<lb/>Hanc proculdubio gratiam promeruerunt. quoniam in rui<lb break="no"/>na<del rend="erased"><unclear>r</unclear></del> apostatarum angelorum humilitate ineffabili˷
+<lb/>se sic suo subdiderunt conditori⸵ ut in eis tunc
+<lb/>impleretur. quod per <name>ysaiam</name> prophetam multopost a 
+<lb/>domino dictum est. <quote>Super quem requiescet spiritus meus. nisi
+<lb/>super humilem et quietum˷ et trementem sermones
+<pb n="52r"/>
+<lb/>meos?</quote> Ideoque septem spiritus in conspectu eorum esse di<lb break="no"/>cti sunt⸵ quoniam spiritum sanctum qui propter septem dona septifor<lb break="no"/>mis dicitur˷ indefesse aspiciunt⸵ et insatiabili<lb break="no"/>ter contemplantur. Sequitur. <quote>Et ab <name>iesu <name>cristo</name> qui
+<lb/>est testis fidelis. quia stomachantibus <name>iudeis</name> et recla<lb break="no"/>mantibus˷ eique mortem sepius intentantibus predicare
+<lb/>non desiit⸵ quod in se credentibus profuturum disposu<lb break="no"/>it.</name></quote> Vnde est illud. <quote>Tu de te ipso testimonium perhibes⸵
+<lb/>testimonium tuum non est uerum.</quote> Et dominus. <quote>Si ego testi<lb break="no"/>monium perhibeo de me ipso⸵ uerum est testimo<lb break="no"/>nium meum.</quote> Et. <quote>Solus non sum⸵ sed ego et qui misit
+<lb/>me pater.</quote> <quote>Propterea ergo</quote> ut ait euangelista <quote>magis que<lb break="no"/>rebant <name>iudei</name> interficere eum. quia non solum soluebat
+<lb/>sabbatum⸵ sed et patrem suum dicebat deum. equalem se fa<lb break="no"/>ciens deo.</quote> Igitur iure testis fidelis dicitur. Subditur. <quote>Pri<lb break="no"/>mogenitus mortuorum.</quote> Quoniam sicut propria uolunta<lb break="no"/>te crucis subiit patibulum˷ temporaliter moriturus⸵
+<lb/>sic potestate propria in regenerati<add place="above">o</add>nem nostram res<subst><del rend="altered">r</del><add place="inRas">u</add></subst>r<lb break="no"/>rexit eternaliter regnaturus. De qua regeneratione˷
+<lb/>discipulis ait. <quote>In regeneratione cum sederit filius ho<lb break="no"/>minis in sede maiestatis sue⸵ sedebitis et uos
+<lb/>iudicantes duodecim tribus <name>israhel</name>.</quote> Additur. <quote>Et 
+<lb/>princeps regum terre.</quote> Vere princeps regum. quia in
+<pb n="52v"/>
+<lb/>manu eius sunt omnes fines terre⸵ sine cuius nutu˷
+<lb/>nec reges sibi subditos regere. nec tyranni uiolen<lb break="no"/>ta dominatione premere possunt. Preteritum
+<lb/>tempus et futurum˷ erat uidelicet et uenturus est⸵
+<lb/>non ideo superius posuit. quoniam aliquid sit preteritum
+<lb/>deo uel futurum˷ cui omnia sunt presentia⸵ quod aper<lb break="no"/>tissime ostendit. preponendo presens tempus dicens˷
+<lb/>qui est. Sicut ad <name>moysen</name> dictum est. <quote>Hec dices filiis
+<lb/><name>israhel</name>. <said>Qui est misit me ad uos⸵ sed uerbis quibus po<lb break="no"/>suit eternitatem significare uoluit.</said></quote> Hoc enim
+<lb/>uerbum siue dictio erat. inicium non apprehendit⸵
+<lb/>sicut uenturus est˷ finem non concludit.
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="27">
 <head>
-<label>.xxvii.</label> De epistolis beati <name>pauli</name> apostoli testimonia de sancta trinitate. et de tribus linguis principalibus<subst><del rend="altered">.</del><add place="inline">⸵</add></subst> que uniuersas linguas significant.
+<label>.xxvii.</label> 
+<lb/>De epistolis beati <name>pauli</name> apostoli testimonia de sancta 
+<lb/>trinitate. et de tribus linguis principalibus<subst><del rend="altered">.</del><add place="inline">⸵</add></subst> 
+<lb/>que uniuersas linguas significant.
 </head>
 <p>
-<lb/>
+<lb/><name>Paulus</name> uero apostolus uas electionis˷ statim
+<lb/>in initio epistole sue ad <name>romanos</name>. miste<lb break="no"/>rium sancte trinitatis pronuntiauit dicens.
+<lb/><quote synch="Rom1.1-4"><name>Paulus</name> seruus <name>christi <name>iesu</name></name> uocatus apostolus segregatus 
+<lb/>in euangelium dei˷ quod ante promiserat per prophetas 
+<lb/>suos in scripturis sanctis de filio suo˷ qui factus est 
+<lb/>ex semine <name>dauid</name> secundum carnem⸵ qui predestina<lb break="no"/>tus est filius dei in uirtute secundum spiritum 
+<pb n="53r"/>
+<lb/>sanctificationis.</quote> Item. <quote>O altitudo diuitiarum sapi<lb break="no"/>entie et scientie dei. quam inconprehensibilia sunt 
+<lb/>iudicia eius⸵ et inuestigabiles uie eius.</quote> Et paulo post.
+<lb/><quote>Ex quo omnia per quem omnia. in quo omnia⸵ ipsi gloria
+<lb/>in secula.</quote> <quote>Ex quo omnia.</quote> quia omnia ex patre. <quote>Per quem
+<lb/>omnia⸵</quote> quia per filium omnia fecit pater. <quote>In quo omnia.</quote>
+<lb/>quia per gratiam sancti spiritus˷ omnis subsistit creatura. <quote>Ipsi</quote> in<lb break="no"/>quit <quote>gloria</quote>. non ipsis⸵ quia cum sit deus trinus. tamen
+<lb/>est unus. Idem ad <name>cointhios</name>. <quote>Gratia domini nostri <name>iesu <name>cristi</name></name>
+<lb/>et caritas dei. et communicatio sancti spritus⸵ sit cum omnibus
+<lb/>uobis.</quote> Communicationem sancti spiritus dicit. et quia
+<lb/>utriusque spiritus est˷ scilicet patris et filii⸵ et quia
+<lb/>per gratiam ipsius unitatem fidei communicamus. per quam
+<lb/>adherentes deo˷ unus spiritus efficimur. Item ad <name>ephesios</name>.
+<lb/>Obsecro <quote>ne deficiatis in tribulationibus meis pro uobis⸵ 
+<lb/>que est gloria uestra.</quote> Gloria etenim credentium est⸵ quod
+<lb/>predicator ita constans sit in assertione fidei.
+<lb/>ut nulla possit tribulatione auerti. Sequitur.
+<lb/><quote>Huius rei gratia. flecto genua mea ad patrem domini
+<lb/>nostri <name>iesu <name>cristi</name></name>.</quote> Hoc exemplo huius apostoli⸵ fideles
+<lb/>flectunt genua sua in ecclesia orantes. ut etiam
+<lb/>corpore ostendant humilitatem quam habent in 
+<lb/>mente. Deinde. <quote>Ex quo omnis paternitas in celis
+<pb n="53v"/>
+<lb/>et in terris nominatur⸵ ut det uobis secundum diuitias glorie
+<lb/>sue</quote>˷ uirtute idest spiritus corroborari. ut scilicet 
+<lb/>non deficiatis in tribulationibus in interiore homine
+<lb/>habitare⸵ idest ad habitandum <name>cristum</name> in cordibus uestris.
+<lb/>quoniam quidem hoc prouenit ex gratia spiritus sancti⸵ quem effu<lb break="no"/>dit in n<add place="above">o</add>bis abunde. Iterum ad <name>galathas</name>. <quote>Quoniam estis
+<lb/>filii dei. misit deus spiritum filii sui in corda nostra cla<lb break="no"/>mantem abba pater.</quote> Per tres linguas quas posuit
+<lb/>apostolus. idest hebraicam˷ grecam et latinam˷ quia
+<lb/>principales sunt⸵ omnes omnium nationum linguas intel<lb break="no"/>ligi uoluit. Est enim hebraica lingua <mentioned>abba</mentioned>⸵ greca
+<lb/>uero et latina˷ <mentioned>pater</mentioned>. Distantia tantum duarum
+<lb/>uocalium˷ idest <mentioned>i</mentioned> et <mentioned>e</mentioned>˷ <name>greci</name> enim pronuntiant <mentioned>patir</mentioned>⸵
+<lb/>latini uero <mentioned>pater</mentioned>. His itaque linguis quasi principalibus
+<lb/>omnium linguarum. consonam inuocationem et 
+<lb/>laudem uniuersi generis humani˷ ad honorem
+<lb/>et gloriam sancte trinitatis que deus unus et uerus
+<lb/>est⸵ fieri declarat.  
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="28">
 <head>
-<label>.xxviii.</label> Item in <title>actibus apostolorum</title> manifestata est sancta trinitas respondente domino discipulis interrogantibus de restitutione reni <name>israhel</name>⸵ similiter in passione beati <name>stephani</name>. quando uidit filium hominis stantem a dextris uirtutis dei.
+<label>.xxviii.</label> Item in <title>actibus apostolorum</title> 
+<lb/>manifestata est sancta trinitas˷ respondente domino 
+<lb/>discipulis interrogantibus de restitutione regni 
+<lb/><name>israhel</name>⸵ similiter in passione beati <name>stephani</name>. 
+<lb/>quando uidit filium hominis stantem a 
+<lb/>dextris uirtutis dei.
 </head>
+<pb n="54r"/>
 <p>
-<lb/>
+<lb/>Similiter in actibus apostolorum. ipsa trinitas insi<lb break="no"/>nuatur. Interrogantibus enim discipulis˷ <quote>domine
+<lb/>quando restitues regnum <name>israhel</name>?</quote> Dixit. <quote>Non est
+<lb/>uestrum nosse tempora uel momenta. que pater posu<lb break="no"/>it in sua potestate⸵ sed accipietis uirtutem spiritus
+<lb/>sancti superuenientis in uos.</quote> Quoniam in die pentecostes˷
+<lb/>quando spiritus sanctus in linguis igneis descendit. tanta
+<lb/>sunt corroborati uirtute⸵ ut qui antea latuerunt
+<lb/>in conclaui metu <name>iudeorum</name>. spiritu sancto accepto˷ palam
+<lb/>ad predicandum exierunt. Et <name>petrus</name> qui uocem ti<lb break="no"/>mens ancille <name>cristum</name> negauerat⸵ accepta uirtute
+<lb/>spiritus sancti˷ principes et magistratus comminantes non timu<lb break="no"/>it. Hac etiam uirtute signa et prodigia in populo
+<lb/><name>iudeorum</name> in toto mundo operati sunt⸵ ad confir<lb break="no"/>mationem diuine predicationis. Iterum in passione
+<lb/>beati <name>stephani</name>. <quote>Cum esset</quote> inquit <quote><name>stephanus</name> plenus spiritu
+<lb/>sancto⸵ intendens in celum uidit gloriam dei et ait. <said>Ecce
+<lb/>uideo celos apertos. et <name>iesum</name> stantem a dextris uir<lb break="no"/>tutis dei.</said></quote> <quote>Cum esset</quote> inquit <quote><name>stephanus</name> plenus spiritu sancto.</quote>
+<lb/>et cetera. Nota quoniam <quote><name>stephanus</name> plenus spiritu sancto</quote>
+<lb/>intendebat in celum. quia omnes quos replet idem
+<lb/>spiritus⸵ terrena despiciunt. et celestia concupiscunt.
+<lb/>Et quod <name>stephano</name> uisibiliter ostensum est˷ erectus cor<pb n="54v" break="no"/><lb break="no"/>poraliter oculis ad celum⸵ idem exibetur inuisibiliter fi<lb break="no"/>delibus animo in celum intentis. <quote>A dextris uirtu<lb break="no"/>tis dei</quote>. idest in propitiatione dei patris˷ cuius uirtus
+<lb/>ipse est⸵ sicut ait apostolus. <quote><name>Cristus</name> dei uirtus. et dei sapien<lb break="no"/>tia est.</quote> Stare uidit <name>stephanus</name> <name>iesum</name>⸵ quem <name>marcus</name>
+<lb/>refert sedere a dextris dei. Peracto etenim trium<lb break="no"/>pho passionis. calcata morte gloria resurrectionis⸵
+<lb/>ascendens in celum sedere a dextris dei dicitur. paratus
+<lb/>quidem iudicare orbem terrarum in equitate. Stare ut
+<lb/>predictum est uidetur a <name>stephano</name>. quoniam cum eo belligera<lb break="no"/>bat⸵ et ut lapidantes superare posset eum adiuua<lb break="no"/>bat. Stare quidem bellantis est⸵ siue adiuuantis.
+<lb/>Preterea a dextris uirtutis dei uidit eum stare⸵ 
+<lb/>quia ab ipso eximie uirtutis donum accepit. quo po<lb break="no"/>tuit et lapidantes sust<add place="above">i</add>nere⸵ et pro lapidantibus
+<lb/>plena karitate orare. Hec sunt que de sancta trini<lb break="no"/>tate que est unus et uerus et sempiternus deus˷ eo 
+<lb/>adiuuante dice<del rend="erased"><unclear>n</unclear></del>re disposuimus⸵ ut noueris
+<lb/>nobilissime comes˷ quoniam hec est uera et summa 
+<lb/>et indubitata fides trinitatis. <quote>a qua si quis aber<lb break="no"/>rauerit˷ et in suo errore usque ad mortem perdu<lb break="no"/>rauerit⸵ absque dubio in eternum peribit.</quote>
 </p>
+</div>
+<div type="textpart" subtype="finalRubric">
+<p>Explicit
+<lb/>liber secundus.</p>
 </div>
 </div>
 <div type="textpart" subtype="liber" n="3">
 <div type="textpart" subtype="capitula">
-<head>Incipiunt capitula libri tercii.
-</head>
+<head>Incipiunt capitula libri tercii.</head>
 <pb n="55r"/>
 <list>
 <item>
@@ -2205,12 +2441,12 @@ Incipit prologus.
 <lb/>sanctorum patrum. 
 </item>
 <item>
-<lb/><label>xi</label> Item de eodem in libro beati <name>iob</name>⸵ et in epistulis apostolorum
+<lb/><label>xi</label> Item de eodem in libro beati <name>iob</name>⸵ et in epistolis apostolorum
 <lb/><name>petri</name> et <name>pauli</name> atque <name>iude</name>. 
 </item>
 <item>
-<lb/><label>xii</label> Item de eodem in epistulis apostolorum <name>pauli</name> <name>petri</name> et <name>iohannis</name>. et de 
-<lb/>epistula beati <name>ieronimi</name> ad <name>paulam</name> et <name>eustochium</name>. 
+<lb/><label>xii</label> Item de eodem in epistolis apostolorum <name>pauli</name> <name>petri</name> et <name>iohannis</name>. et de 
+<lb/>epistola beati <name>ieronimi</name> ad <name>paulam</name> et <name>eustochium</name>. 
 </item>
 <item>
 <lb/><label>xiii</label> De libro sapientie. et de libris prophetarum. 
@@ -2483,7 +2719,7 @@ Incipit prologus.
 <lb/>Itaque non bis natus est deus. sed ex duabus nati<lb break="no"/>uitatibus idest dei et hominis⸵ seipsum unigenitus
 <lb/>patris˷ atque in se hominem unum esse uoluit deum.
 <lb/>Vnus ergo <name>cristus <name>iesus</name></name> filius dei unigenitus. una ser<lb break="no"/>uitute cum propria carne uenerandus. Et ut
-<lb/>ipsis uerbis utar beatissimi <name>cirilli</name> <name>alexandri<lb break="no"/>ni</name> episcopi˷ sumptis ex epistula aduersus <name>nestorium</name> scripta.
+<lb/>ipsis uerbis utar beatissimi <name>cirilli</name> <name>alexandri<lb break="no"/>ni</name> episcopi˷ sumptis ex epistola aduersus <name>nestorium</name> scripta.
 <lb/>quam omnes pontifices <name>romani</name> post eius tempore
 <lb/>uenerando extollunt preconio⸵ et precipue excel<lb break="no"/>lentissimus doctor. <name>leo</name> papa. ut ipsis inquam uerbis
 <lb/>utar in confusionem heresis˷ in quorundam
@@ -2589,7 +2825,7 @@ Incipit prologus.
 </div>
 <div type="textpart" subtype="capitulum" n="11">
 <head>
-<label>.xi.</label> Item de eodem in libro beati <name>iob</name>⸵ et in epistulis apostolorum <name>petri</name> et <name>pauli</name> atque <name>iude</name>. 
+<label>.xi.</label> Item de eodem in libro beati <name>iob</name>⸵ et in epistolis apostolorum <name>petri</name> et <name>pauli</name> atque <name>iude</name>. 
 </head>
 <p>
 <lb/>
@@ -2597,7 +2833,7 @@ Incipit prologus.
 </div>
 <div type="textpart" subtype="capitulum" n="12">
 <head>
-<label>.xii.</label> Item de eodem in epistulis apostolorum <name>pauli</name> <name>petri</name> et <name>iohannis</name>. et de epistula beati <name>ieronimi</name> ad <name>paulam</name> et <name>eustochium</name>. 
+<label>.xii.</label> Item de eodem in epistolis apostolorum <name>pauli</name> <name>petri</name> et <name>iohannis</name>. et de epistola beati <name>ieronimi</name> ad <name>paulam</name> et <name>eustochium</name>. 
 </head>
 <p>
 <lb/>
