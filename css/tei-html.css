@@ -1955,7 +1955,7 @@ tei-purpose {
 }
 
 /* q */
-tei-q, tei-quote, tei-said {
+tei-q, tei-quote, tei-said, tei-mentioned, tei-gloss {
   quotes: "\2018""\2019""\201c""\201d""\2018""\2019""\201c""\201d""\2018""\2019""\201c""\201d""\2018""\2019";
 }
 
