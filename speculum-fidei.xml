@@ -437,8 +437,8 @@ nec
 <lb/>optulit super illud holocaustum de animalibus mun<lb break="no"/>dis⸵ odoratusque est dominus odorem suauitatis.</quote> Sicut le<lb break="no"/>gitur quod <name>enos</name> primus cepit inuocare nomen domini. sic 
 <lb/>et legitur quod noe primus edificauit altare domino. Sed ne 
 <lb/>quis putet quod nidor combustorum animalium suauis odor
-<lb/>fuerit domino⸵ quia scriptum est <quote synch="Gen8.21">odoratus est dominus odorem suauita<lb break="no"/>tis</quote>. expressius hoc exponendum puto. <mentioned>Holocaustum</mentioned>. totum 
-<lb/>incensum dicitur. Illud quippe totum incensum est⸵ de quo nichil 
+<lb/>fuerit domino⸵ quia scriptum est <quote synch="Gen8.21">odoratus est dominus odorem suauita<lb break="no"/>tis</quote>. expressius hoc exponendum puto. <mentioned>Holocaustum</mentioned>. <gloss>totum 
+<lb/>incensum</gloss> dicitur. Illud quippe totum incensum est⸵ de quo nichil 
 <pb n="8v"/>
 <lb/>remanet quod non incendatur. Vir igitur sanctus exemptus 
 <lb/>a diluuio˷ exterius ostendit opere⸵ quod interius gesta<lb break="no"/>bat in corde. Erexit altare domino. ad quem totum iam
@@ -518,7 +518,7 @@ nec
 <lb/>Autumant <name>iudei</name> ut astruit <name>ieronimus</name>˷ quoniam <name>cal<lb break="no"/>dei</name> <name>abraham</name> et <name>aram</name> fratrem suum˷ patrem uidelicet <name>loth</name><subst><del rend="altered">⸵</del><add place="inline">˷</add></subst>
 <lb/>quia noluerunt colere deos eorum˷ proiecerunt in ignem.
 <lb/>ubi interiit <name>aram</name>⸵ et <name>abraham</name> ereptus est. <mentioned><name>Vr</name></mentioned> quippe 
-<lb/><name>caldaice</name>⸵ ignis dicitur. Inde scriptum est. <quote>Mortuuus est
+<lb/><name>caldaice</name>⸵ <gloss>ignis</gloss> dicitur. Inde scriptum est. <quote>Mortuuus est
 <lb/><name>aram</name> ante <name>thare</name> patrem suum. in terra natiuita<subst><del rend="erased">u</del><add place="inRas">t</add></subst>is
 <lb/>sue⸵ in <name>ur</name> <name>caldeorum</name>.</quote> Hinc est etiam quod dominus dixit ad 
 <lb/><name>abraham</name>. <quote>Ego sum deus fortissimus. qui eduxi te de <name>ur</name>
@@ -1533,7 +1533,7 @@ Incipit prologus.
 <lb/>uestrorum misit me ad uos.</quote> Cum enim semel
 <lb/>dixisset dominus deus. ter subiunxit deus dicens.
 <lb/><quote>Deus <name>abraham</name>˷ et deus <name>ysaac</name>˷ et deus <name>iacob</name>.</quote>
-<lb/>Ter dixit <mentioned>deus</mentioned>. Quia pater deus. filius deus⸵
+<lb/>Ter dixit <said>deus</said>. Quia pater deus. filius deus⸵
 <lb/>spiritus sanctus deus. <quote>Non tamen tres dii⸵ sed unus deus.</quote>
 <lb/>Hoc reuera nomen illi in eternum. Contendunt
 <lb/>quidam˷ quoniam dominus in euangelio usus hoc capitulo˷
@@ -2257,7 +2257,7 @@ Incipit prologus.
 <lb/>sunt.</quote> Et in <title>apocalipsi</title>. <quote>Gratia uobis et pax ab eo qui est
 <lb/>et qui erat. et qui uenturus est. Et a septem spiriti<lb break="no"/>bus˷ qui in conspectu throni eius sunt. Et ab <name>iesu
 <lb/><name>cristo</name></name> qui est testis fidelis. primogenitus mortuorum˷
-<lb/>princeps regum terre.</quote> <mentioned>Thronus</mentioned> grece⸵ <mentioned>sedes</mentioned> dicitur
+<lb/>princeps regum terre.</quote> <mentioned>Thronus</mentioned> grece⸵ <gloss>sedes</gloss> dicitur
 <lb/>latine. Vnus quippe de nouem ordinibus angelorum.
 <lb/><mentioned>t<add place="above">h</add>ronus<!-- superscript ⱶ again --></mentioned> uocatur. <quote>Ob hoc</quote> ut ait beatus <name>gregorius</name>˷
 <lb/>quod in eis dominus sedeat⸵ et per eos sua iudicia discernat.
@@ -4100,7 +4100,8 @@ quia secundum formam dei dixit. <said>Ego sum
 <item>
 <lb/><label>v</label> Quomodo uenditio <name>ioseph</name> et incarceratio <name>cristum</name> uenditum et 
 <lb/>sepultum significat. et quomodo <name>cristus</name> resurgens agnitus est 
-<lb/>dominus mundi⸵ sicut <name>ioseph</name> eductus a carere. factus est dominus<reg>.</reg> 
+<lb/>dominus mundi⸵ sicut <name>ioseph</name> eductus a carere. factus est dominus
+<lb rend="part"/><name>egypti</name>. 
 </item>
 <item>
 <lb/><label>vi</label> De nouissimis diebus in quibus uentura erant que <name>iacob</name> pa<lb break="no"/>triarcha nunciauit filiis suis.
@@ -4305,68 +4306,244 @@ quia secundum formam dei dixit. <said>Ego sum
 <p>
 <lb/>Misterium passionis
 <lb/>saluatoris nostri⸵ in 
-<lb/>primo homine reuela<lb break="no"/>tum credimus.
+<lb/>primo homine reuela<lb break="no"/>tum credimus. dicente
+<lb/>scriptura. <quote>Immisit dominus
+<lb/>soporem in <name>adam</name>⸵ et
+<lb/>tulit unam de costis eius</quote>. et cetera. Quid hoc esse
+<lb/>putamus. quod dominus immisit soporem in <name>adam</name>˷
+<lb/>ut tolleret costam eius? Non potuit tollere uigi<lb break="no"/>lanti. qui tulit dormienti? Sed dicet quispiam. Dor<lb break="no"/>mienti ideo tollere uoluit⸵ ut minus sentiret.
+<lb/>Sed quis ita dormit. ut non sentiat si sibi costa tollatur?
+<lb/>Ad hoc fortassis respondebitur. Ita immissus est sopor.
+<lb/>ut non sentiret quando dominus costam tulit. Numquid idem
+<lb/>non posset dominus facere uigilanti. ut non sentiret <name>adam</name>
+<lb/>dum tolleret costam? Quis hoc uel insanus abnu<lb break="no"/>ere audebit? <quote>Sed magnum est hoc misterium</quote>
+<lb/>ait apostolus. in <name>cristo</name> et in ecclesia. In dormiente <name>adam</name>
+<lb/>latus apertum est ablata costa⸵ quia si non esset latus
+<lb/>apertum˷ non diceret scriptura repleuit carnem pro ea.
+<lb/>et mortuo <name>cristo</name> quem pro nobis tradidit pater⸵ lancea
+<lb/>latus apertum est. Costam quam tulerat dominus ex
+<lb/><name>adam</name> edificauit in mulierem⸵ et uirtute passionis
+<pb n="96v"/>
+<lb/><name>cristi</name>˷ edificata est ecclesia. Ex cuius latere aperto⸵ exiuit
+<lb/>sanguis redemptionis˷ et unda baptismatis. Sequitur.
+<lb/><quote>Et adduxit eam ad <name>adam</name>.</quote> Hoc est quod dominus in euangelio
+<lb/>dicit. <quote>Nemo uenit ad me⸵ nisi pater meus traxerit
+<lb/>eum.</quote>
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="2">
 <head>
-<label>.ii.</label> Quomodo mors <name>abel</name>˷ mortem <name>cristi</name> significauit.
+<label>.ii.</label> Quomodo mors <name>abel</name>⸵ mortem <name>cristi</name> significauit.
 </head>
 <p>
-<lb/>
+<lb/>Mors quoque <name>abel</name>⸵ mortem <name>cristi</name> significat.
+<lb/>Quem eductum in agrum⸵ <name>cain</name> frater
+<lb/>eius interfecit. <mentioned><name>Cain</name></mentioned> interpretatur <gloss>pos<lb break="no"/>sessio</gloss>. <mentioned><name>Abel</name></mentioned> <gloss>luctus</gloss>. <name>Cain</name> <name>iudeos</name> significat. qui
+<lb/>fratres <name>cristi</name> secundum carnem⸵ qui ut possessi<lb break="no"/>onem tenerent dicente <name>caipha</name>˷ <quote synch="John11.48">si dimiserimus
+<lb/>eum sic omnes credent in eum. et uenient <name>romani</name>
+<lb/>et tollerent nostrum locum et gentem</quote>⸵ <name>cristum</name> eductum extra
+<lb/>ciuitatem crucifixerunt. Qui luctus fuit apostolis suis
+<lb/>moriendo⸵ quia luctus est dolor de amissione ca<lb break="no"/>rorum.   
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="3">
 <head>
-<label>.iii.</label> Quod <name>noe</name> inebriatus et nudatus˷ iacens in tabernaculo. <name>cristi</name> passionem prefigurauit. 
+<label>.iii.</label> Quod <name>noe</name> inebriatus et nudatus˷ ia<lb break="no"/>cens in tabernaculo. <name>cristi</name> passionem prefigurauit. 
 </head>
 <p>
-<lb/>
+<lb/><name>Noe</name> quoque qui plantauit uineam˷ et bi<lb break="no"/>bens inebriatus est˷ et nudatus iacuit in
+<lb/>tabernaculo⸵ in hoc facto <name>cristi</name> passionem
+<lb/>significat. Qui sicut propheta <name>ysaias</name> ait. <quote>plantauit
+<lb/>uineam <name>sorech</name></quote>⸵ idest electam. Et post pauca. <quote>Vi<lb break="no"/>nea domini sabaoth⸵ domus <name>israhel</name> est.</quote> Bibit de uino
+<pb n="97r"/>
+<lb/>huius uinee. quando ex genere <name>israheliticarum<!-- word spelled out this way --></name>˷ carnem
+<lb/>pro nobis et sanguinem ut pati posset assumpsit.
+<lb/><quote>Et inebriatus est</quote>⸵ idest passus est. <quote>Et nudatus ia<lb break="no"/>cuit</quote>⸵ quia hinc uel maxime humana infirmitas
+<lb/>quam pro nobis assumpsit apparuit. In tabernaculo suo⸵
+<lb/>idest in sue carnis gente. <name>Cham</name> uero qui ridens nu<lb break="no"/>ditatem patris˷ <quote synch="Gen9.22">fratribus nunciauit</quote>⸵ hereticos significat.
+<lb/>qui <quote synch="Gen9.22">fratribus</quote> idest sibi consimilibus˷ <quote synch="Gen9.22">foris</quote> idest extra ca<lb break="no"/>tholice fidei limina nuntiant⸵ que male de <name>cristo</name>
+<lb/>sentiunt. Iccirco iure <name>cham</name> medius erat inter
+<lb/>utrumque remanens. nec in primitiuis <name>israheliti<lb break="no"/>carum</name>˷ nec in plenitudine gentium. Interpretaturque
+<lb/><gloss>calidus</gloss>. quia genus hereticorum calidum est⸵ non spiritu sapi<lb break="no"/>entie. sed impatientie. <name>Sem</name> uero et <name>iafeth</name>˷ idest circum<lb break="no"/>cisio et preputium intrauerunt auersi et operuerunt
+<lb/>nuditatem patris⸵ nec uiderunt quod reuerendo 
+<lb/>texerunt. Vestimentum significat sacramentum. dor<lb break="no"/>sa memoria preteritorum. Quia passionem <name>cristi</name> transac<lb break="no"/>tam celebrat ecclesia⸵ non adhuc prospectat futuram.
+<lb/><name>Cham</name> in filio suo <name>chanaan</name> maledicitur. quia here<lb break="no"/>tic<subst><del rend="erased">u</del><add place="inline">i</add></subst> in operibus suis maledicti sunt. Vnde <name>chanaan</name>
+<lb/>interpretatur <gloss>motus</gloss>. quia opera hereticorum stabilia non sunt⸵
+<pb n="97v"/>
+<lb/>sed semper sunt in motu malicie. <name>Sem</name> et <name>iafeth</name> bene<lb break="no"/>dictionem acceperunt⸵ in qua dictum est. <quote>Habitet <name>ia<lb break="no"/>feth</name>⸵ in tabernaculis <name>sem</name>.</quote> <mentioned><name>Sem</name></mentioned> quippe. interpretatur
+<lb/><gloss>nominatus</gloss>. Quid autem nominatius <name>cristo</name>. cuius nomen
+<lb/>in <title>canticis canticorum</title> ungento comparatur effuso?
+<lb/>In cuius tabernaculis idest ecclesiis. habitat gentium lati<lb break="no"/>tudo. Nam <mentioned><name>iafeth</name></mentioned>⸵ <gloss>latitudo</gloss> interpretatur. Istud
+<lb/>misterium˷ et si non eodem ordine. fere eisdem uerbis
+<lb/>posuimus⸵ quibus illud exponit beatus pater noster
+<lb/><name>augustinus</name>.
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="4">
 <head>
-<label>.iiii.</label> De <name>ysaac</name> qui portauit lignum super quod mactari debuit˷ quomodo significat <name>cristum</name>. qui baiulauit crucem suam in qua crucifixus est⸵ et de ariete qui pro <name>ysaac</name> immolatus est. 
+<label>.iiii.</label> De <name>ysaac</name> qui portauit lignum 
+<lb/>super quod mactari debuit˷ quomodo significat <name>cristum</name>. qui 
+<lb/>baiulauit crucem suam in qua crucifixus est⸵ et 
+<lb/>de ariete qui pro <name>ysaac</name> immolatus est. 
 </head>
 <p>
-<lb/>
+<lb/>Quid de <name>ysaac</name> dicam? Nonne <name>cristum</name> signi<lb break="no"/>ficauit. quando ligna portauit˷ super que
+<lb/>positus erat ad immolandum? <name>Cristum</name> dico.
+<lb/>qui baiulauit crucem suam˷ in qua crucifixus est.
+<lb/>Sed saluato <name>ysaac</name>⸵ aries qui herebat cornu uepribus˷
+<lb/>pro eo immolatus est. Et <name>cristus</name> intacta diuinitate⸵ pro
+<lb/>peccatis nostris in carne passus est. De qua passione⸵
+<lb/>dixit <name>ysaias</name> propheta. <quote>Vere dolores nostros ipse portauit⸵
+<lb/>et peccata nostra ipse abstulit.</quote> Vepres nanque pec<lb break="no"/>cata significant. Vnde psalmista. <quote>Conuersus sum
+<pb n="98r"/>
+<lb/>in erumpna mea dum configitur spina</quote>⸵ idest dum me
+<lb/>peccato penaliter uulneratum conspicio. in erump<lb break="no"/>na mea me esse considerant⸵ conuersus sum ad sa<lb break="no"/>lutis medicum. Nam subditur. <quote>Delictum meum cognitum
+<lb/><add place="inRas">trifeci</add></quote>⸵ idest per confessionem tibi aperui. Item. <quote>Aries here<lb break="no"/>bat cornu uepribus⸵ quia fortitudo diuinitatis in
+<lb/>homine propter identitatem persone perpessa est. con<lb break="no"/>tumeliam spinee corone.</quote> Hinc est quod ipse aries
+<lb/>idest humanitas <name>cristi</name>˷ per <name>ieremiam</name> ait. <quote>Contu<lb break="no"/>melias et terrores passus sum ab eis.</quote> Sed quia per
+<lb/>potentiam diuinitatis. quasi cornu eos repulit⸵
+<lb/>inquit. <quote>dominus mecum est˷ tanquam bellator fortis.</quote> Nec
+<lb/>mireris quod una res plura pretendit misteria⸵ quia
+<lb/>hec est consuetudo diuine pagine. Namque petra
+<lb/><name>cristum</name> significat. ut est illud˷ <quote>petra autem erat <name>cristus</name></quote>⸵
+<lb/>significat et duriciam cordis. in quod cum cadit uer<lb break="no"/>bum dei arescit⸵ quia radicem non habet. Vnde per <name>eze<lb break="no"/>chiel</name> dominus ait. <quote>Auferam a uobis cor lapideum⸵ et dabo
+<lb/>uobis cor carneum.</quote>
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="5">
 <head>
-<label>.v.</label> Quomodo uenditio <name>ioseph</name> et incarceratio <name>cristum</name> uenditum et sepultum significat. et quomodo <name>cristus</name> resurgens agnitus est dominus mundi⸵ sicut <name>ioseph</name> eductus a carere. factus est dominus<reg>.</reg> 
+<label>.v.</label> Quomodo uenditio <name>ioseph</name> et 
+<lb/>incarceratio <name>cristum</name> uenditum et sepultum significat. 
+<lb/>et quomodo <name>cristus</name> resurgens agnitus est dominus mundi⸵ sicut 
+<lb/><name>ioseph</name> eductus a carere˷ factus est princeps <name>egypti</name>. 
 </head>
 <p>
-<lb/>
+<lb/><name>Ioseph</name> quoque uenditus in <name>egyptum</name>⸵ <name>christum</name> significat
+<pb n="98v"/>
+<lb/>uenditum <name>iudeis</name>. Nam <mentioned><name>egyptus</name></mentioned>. <gloss>tenebre</gloss> interpretatur.
+<lb/>Et qui magis tenebre iure dicuntur quam <name>iudei</name>. qui <name>cristum</name>
+<lb/>non cognouerunt miracula facientem⸵ quem co<lb break="no"/>tidie in lege et prophetis legerunt˷ ad eorum uenturum
+<lb/>salutem? <name>Iudas</name> uenditi <name>ioseph</name> causa fuit. sic enim
+<lb/>eum dixisse scriptum est. <quote>Ecce <name>ismahelite</name> transeunt⸵
+<lb/>uenite uenundetur.</quote> Et <name>iudas</name> uendidit <name>cristum</name>.
+<lb/><name>Ioseph</name> conclusus est carcere⸵ et <name>cristus</name> sepulchro. Edu<lb break="no"/>ctus <name>ioseph</name> de carcere⸵ factus est princeps <name>egypti</name>. Et 
+<lb/><name>cristus</name> resurgens a mortuis. agnitus est dominus mundi.
+<lb/><name>Ioseph</name> <name>egyptum</name> fame liberauit⸵ et <name>cristus</name> fidelibus suis
+<lb/>corpus suum ad manducandum donauit.
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="6">
 <head>
-<label>.vi.</label> De nouissimis diebus in quibus uentura erant que <name>iacob</name> patriarcha nunciauit filiis suis.
+<label>.vi.</label> De nouissimis diebus˷ in quibus uentura erant 
+<lb/>que <name>iacob</name> patriarcha nunciauit filiis suis.
 </head>
 <p>
-<lb/>
+<lb/><name>Iacob</name> patriarcha˷ antequam benediceret filiis suis⸵ sic
+<lb/>ait. <quote>Congregamini. ut annuntiem que uentura
+<lb/>sunt uobis diebus nouissimis.</quote> Congregamini
+<lb/>et audite filii <name>iacob</name>⸵ audite <name>israhel</name> patrem uestrum.
+<lb/>Hec ideo preposui prudentissime uir <name rend="smallcaps">rodberte</name>
+<lb/>comes. ut non dubites in misterio dicta fuisse
+<lb/>et facta que prenotauimus in passione domini nostri <name>iesu
+<lb/><name>cristi</name></name>. Expeditius tibi loquor. quia optime litteratus es⸵
+<lb/>si autem non litterato loquerer. operam omnino perde<lb break="no" rend="part"/>rem.
+<pb n="99r"/>
+<lb/>Ecce patriarcha sanctus promittit se nunciaturum fi<lb break="no"/>liis˷ que uentura sunt in nouissimis diebus. Nouis<lb break="no"/>simi dies sunt⸵ hi in quibus nunc sumus. Vnde <name>iohannes</name>
+<lb/>apostolus. <quote>Filioli. nouissima hora est.</quote> Et apostolus <name>paulus</name>.
+<lb/><quote>Nos sumus. in quos fines seculorum deuenerunt.</quote> Primi
+<lb/>dies⸵ a constitutione mundi usque ad <name>moysen</name>˷ sine
+<lb/>lege scripta. Secundi. a <name>moyse</name> usque ad <name>cristum</name>˷ sub lege et
+<lb/>prophetis. Ab incarnatione domini nostri <name>iesu <name>cristi</name></name>. sub gratia
+<lb/>ipsius uiuitur usque in finem mundi. Hi sunt no<lb break="no"/>uissimi dies. Quod bene insinuat beatus euangelista
+<lb/><name>iohannes</name>. qui in <title>apocalipsi</title> sua testatur angelum iurasse
+<lb/>per uiuentem in secula seculorum⸵ quia tempus ultra
+<lb/>non erit. In his ergo diebus euenerunt ea que sanctus
+<lb/>patriarcha filiis suis nuntiauit. Vnde est illud
+<lb/>quod dicturi sumus.
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="7">
 <head>
-<label>.vii.</label> De <name>simeone</name> et <name>leui</name> fratribus quod pater eorum <name>iacob</name> uocauit eos uasa iniquitatis bellantia. et quare˷ et quod id impletum est in passione <name>cristi</name>. 
+<label>.vii.</label> De <name>symeone</name> et <name>leui</name> 
+<lb/>fratribus. quod pater eorum <name>iacob</name> uocauit eos uasa ini<lb break="no"/>quitatis bellantia⸵ et quare. et quod id impletum 
+<lb/>est in passione <name>cristi</name>. 
 </head>
 <p>
-<lb/>
+<lb/><quote synch="Gen49.5"><name>Symeon</name> et <name>leui</name> fratres⸵ uasa iniquitatis bel<lb break="no"/>lantia.</quote> De <name>symeone</name> ut refert beatus <name>iero<lb break="no"/>nimus</name>. scribe orti sunt. De <name>leui</name> uero fratre eius⸵
+<lb/>sacerdotes. Hi precipue aduersabantur factis et dictis
+<lb/>saluatoris⸵ et ideo uocat eos <quote>uasa iniquitatis</quote>. iuxta
+<pb n="99v"/>
+<lb/>quod ait psalmista. <quote>Cogitauerunt iniquitates in cor<lb break="no"/>de suo.</quote> <quote>Bellantia</quote>. quia <quote>tota die constituebant
+<lb/>prelia</quote>⸵ cogitantes quomodo <name>iesum</name> perderent et occiderent.
+<lb/>Sequitur. In consilio eorum non ueniet anima mea.
+<lb/>Hic in se transfert eos qui non consensuerunt persecuto<lb break="no"/>ribus <name>cristi</name>. ut <name>nichodemus</name> et <name>ioseph</name> ab <name>arimathia</name>. et 
+<lb/>centurio˷ et apostoli˷ et alii multi. Subditur. <quote>Et in cetu
+<lb/>eorum non sit gloria mea.</quote> Conuocato etenim consilio⸵
+<lb/>in gloriam suam transtulerunt quod sibi uidebantur
+<lb/>preualuisse saluatori. condempnantes eum morti. Vnde
+<lb/>sequitur. <quote>Quia in furore suo occiderunt uirum.</quote> Siquis
+<lb/>contenderit quia hoc dixerit de <name>emor</name> patre <name>sichem</name>⸵
+<lb/>sciat quod non tantum eum. sed etiam <name>sichem</name> filium eius˷
+<lb/>et omnes uiros ciuitatis cum eis interfecerunt. Sic ete<lb break="no"/>nim scriptum est. <quote>Arreptis duo <name>iacob</name> filii <name>symeon</name>
+<lb/>et <name>leui</name> fratres <name>dine</name> gladiis⸵ ingressi sunt urbem con<lb break="no"/>fidenter. Interfectisque omnibus masculis⸵ <name>emor</name> et 
+<lb/><name>sichem</name> pariter occiderunt.</quote> Et quod sequitur. impe<lb break="no"/>dit eorum contentionem. <quote>Et in uoluntate sua sub<lb break="no"/>foderunt murum.</quote> Quod eos fecisse⸵ nusquam legitur.
+<lb/>Igitur uir iste quem occiderunt saluator noster est⸵
+<lb/>de quo scriptum est. <quote>Ecce uir˷ oriens nomen eius. Et in
+<lb/>uoluntate sua⸵ quia nullo cogente˷ nullo uim
+<pb n="100r"/>
+<lb/>faciente subfoderunt murum</quote>⸵ de quo <name>ysaias</name> ait. 
+<lb/><quote>Vrbs fortitudinis nostre <name>syon</name>⸵ saluator ponetur in ea
+<lb/>murus.</quote> Hunc murum subfoderunt. quando manus
+<lb/>eius et pedes clauis confixerunt⸵ et lancea latus eius
+<lb/>aperuerunt. Vnde idem murus per psalmistam ait.
+<lb/><quote>Foderunt manus meas et pedes meos.</quote> Et sicut ali<lb break="no"/>bi scriptum est. <quote>Videbunt. in quem transfixerunt.</quote> Sequitur.
+<lb/><quote>Maledictus furor eorum pertinax⸵ perseuerauit
+<lb/>enim usque ad crucem.</quote> Et indignatio eorum quia dura⸵
+<lb/>quoniam perdurauit post mortem saluatoris. Hinc est
+<lb/>quod dixerunt <name>pilato</name>. <quote>Domine recordati sumus quia
+<lb/>seductor ille dixit adhuc uiuens⸵ post tres dies re<lb break="no"/>surgam.</quote> Iube ergo custodire sepulchrum. ne forte
+<lb/>ueniant discipuli eius et furentur eum⸵ et dicant plebi.
+<lb/><quote>Surrexit a mortuis.</quote> Et eris nouissimus error⸵ peior
+<lb/>priore.    
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="8">
 <head>
-<label>.viii.</label> De serpente quem exaltauit <name>moyses</name> in deserto. precipiente domino. et quod ipse mortem <name>cristi</name> significauit. 
+<label>.viii.</label> De serpente quem exaltauit <name>moyses</name> 
+<lb/>in deserto precipiente domino. et quod ipse mortem 
+<lb/><name>cristi</name> significauit. 
 </head>
 <p>
-<lb/>
+<lb/>In libro quippe <title>numeri</title>˷ misterium crucis et passi<lb break="no"/>onis <name>cristi</name> significatum est⸵ dicente scriptura. <quote>Orauit
+<lb/><name>moyses</name> pro populo in quos missi sunt igniti serpen<lb break="no"/>tes⸵ et locutus est dominus ad eum. <said>Fac serpente eneum.
+<lb/>et pone eum pro signo⸵ qui percussus aspexerit eum˷ uiuet.</said></quote>
+<pb n="100v"/>
+<lb/>De hoc serpente⸵ locutus est dominus ad <name>iudeos</name>. <quote>Sicut <name>moy<lb break="no"/>ses exaltauit serpentem in deserto⸵ sic oportet exal<lb break="no"/>tari filium hominis.</name></quote> Quod exponens beatus pater noster
+<lb/><name>augustinus</name> ait. <quote>Mordebantur homines⸵ intuebantur˷ 
+<lb/>et sanabantur. Qui sunt serpentes mordentes? Peccata de 
+<lb/>mortalitate carnis. Quis est serpens exaltatus? 
+<lb/>Mors domini in cruce. Quia enim a serpente mors⸵ 
+<lb/>per serpentis effigiem figurata est. Morsus ser<lb break="no"/>pentis letalis⸵ mors domini uitalis. Attenditur serpens. 
+<lb/>ut nihil ualeat serpens. Quid est hoc? Attendi<lb break="no"/>tur mors⸵ ut nichil ualeat mors. Sed cuius mors? 
+<lb/>Mors uite si dici potest⸵ mors uite. Immo quia dici 
+<lb/>potest⸵ mirabiliter dicitur. Sed nunquid non erit 
+<lb/>dicendum. quod fuit faciendum? Ego dubitem dicere.
+<lb/>quod dominus pro me dignatus est facere? Nonne uita <name>cristus</name>? 
+<lb/>Et tamen mortuus est <name>cristus</name>. Sed in morte <name>cristi</name> mors 
+<lb/>mortua est⸵ quia uita mortua occidit mortem. 
+<lb/>plenitudo uite deglutiuit mortem.</quote> <quote><quote>Sicut <name>moyses</name></quote>
+<lb/>inquit <quote>exaltauit serpentem in heremo</quote></quote>˷ et cetera⸵ <quote>quomodo 
+<lb/>qui intuebantur illum serpentem˷ non peribant mor<lb break="no"/>sibus serpentum. sic qui intuentur fide mortem <name>cristi</name>⸵ 
+<lb/>sanantur a morsibus peccatorum. Sed illi sanabantur 
+<lb/>a morte ad uitam temporalem⸵ hic autem ait˷ 
+<pb n="101r"/>
+<lb/>ut habeant uitam aeternam.</quote> <quote>Figura prestabat temporalem⸵ 
+<lb/>res ipsa cuius figura illa erat prestat uitam aeternam.</quote>
 </p>
 </div>
 <div type="textpart" subtype="capitulum" n="9">
 <head>
-<label>.ix.</label> Insultatio in hereticos. et quod uita in uia mortua est⸵ et quomodo sit intelligendum.
+<lb/><label>.ix.</label> Insultatio in hereticos. et quod uita in uia mor<lb break="no"/>tua est⸵ et quomodo sit intelligendum.
 </head>
 <p>
 <lb/>
